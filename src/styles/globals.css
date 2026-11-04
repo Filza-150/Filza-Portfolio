@@ -8,5 +8,6 @@
   --color-light: #f5f5f5;
   --color-primary: #B63E96;
   --color-primary-dark: #58E6D9;
-
+/* Animation */
+  --animate-spin-slow: spin 8s linear infinite;
 }
