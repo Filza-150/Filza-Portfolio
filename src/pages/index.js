@@ -45,7 +45,7 @@ Explore my latest projects and articles, showcasing my expertise in React.js and
         </Layout>
 
         <HireMe />
-        <div>
+        <div className='absolute right-8 bottom-8 inline-block w-24'>
           <Image src={lightBulb} alt='FilzaNaeem' className='w-full h-auto' />
         </div>
       </main>
