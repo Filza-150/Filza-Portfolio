@@ -3,7 +3,7 @@ import Layout from '@/components/Layout'
 import Head from 'next/head'
 import React from 'react'
 
-// const FeaturedArticle = ({})
+const FeaturedArticle = ({})
 
 const articles = () => {
   return (
